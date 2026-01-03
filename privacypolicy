@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Statshots Privacy Policy</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+        h1 {
+            color: #007AFF;
+            border-bottom: 2px solid #007AFF;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #007AFF;
+            margin-top: 30px;
+        }
+        .last-updated {
+            color: #666;
+            font-style: italic;
+            margin-bottom: 30px;
+        }
+        .contact {
+            background-color: #f5f5f5;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Statshots Privacy Policy</h1>
+    <p class="last-updated">Last Updated: December 2024</p>
+
+    <h2>Introduction</h2>
+    <p>Statshots ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we handle information when you use our mobile application for tracking hockey team statistics.</p>
+
+    <h2>Data Collection and Storage</h2>
+    <p><strong>We do not collect, store, or transmit any personal information to external servers.</strong></p>
+    <p>All data you enter into Statshots is stored locally on your device using Apple's Core Data framework. This includes:</p>
+    <ul>
+        <li>Team information (name, season, league)</li>
+        <li>Player data (names, jersey numbers, positions, contact information, medical information, parent/guardian details)</li>
+        <li>Game information (opponents, dates, scores, locations)</li>
+        <li>Game statistics (goals, assists, points, shots, saves, penalties, penalty minutes, plus/minus, ice time)</li>
+        <li>Staff information</li>
+        <li>Photos (team logos, player photos, staff photos)</li>
+    </ul>
+    <p>This data never leaves your device and is not accessible to us or any third parties. All statistics and information remain private and stored only on your device.</p>
+
+    <h2>Camera and Photo Library Access</h2>
+    <p>Statshots requests access to your device's camera and photo library solely to allow you to:</p>
+    <ul>
+        <li>Take photos for team logos</li>
+        <li>Select photos for player profile pictures</li>
+        <li>Add photos for team staff members</li>
+    </ul>
+    <p>These photos are stored locally on your device using Core Data and are never transmitted, shared, or accessed by us or any third parties. You can revoke camera or photo library access at any time through your device's Settings app.</p>
+
+    <h2>Data Export</h2>
+    <p>Statshots allows you to export your data to CSV files for backup or external use. This export functionality:</p>
+    <ul>
+        <li>Only works when you explicitly choose to export data</li>
+        <li>Creates files on your device that you control</li>
+        <li>Does not automatically transmit data anywhere</li>
+        <li>Requires you to manually share exported files via email, AirDrop, or other methods you choose</li>
+    </ul>
+    <p>We have no access to exported data files unless you choose to share them with us directly.</p>
+
+    <h2>In-App Purchases</h2>
+    <p>Statshots offers in-app purchases for additional team management slots. Payment processing is handled entirely by Apple through their secure StoreKit payment system. We do not have access to:</p>
+    <ul>
+        <li>Your payment information</li>
+        <li>Credit card details</li>
+        <li>Billing addresses</li>
+        <li>Any other financial data</li>
+    </ul>
+    <p>Purchase information is processed by Apple and we only receive confirmation that a purchase was made, not any personal payment details.</p>
+
+    <h2>Data Storage and Backup</h2>
+    <p>All data is stored locally on your device using Core Data. Your data may be included in your device's automatic iCloud backup if you have iCloud Backup enabled, but this is controlled entirely by your device settings and Apple's iCloud service, not by Statshots.</p>
+    <p>If you delete the app, all associated data stored by the app is removed from your device. We recommend backing up your device regularly through iCloud or iTunes to preserve your data.</p>
+
+    <h2>Third-Party Services</h2>
+    <p>Statshots does not use any third-party analytics, advertising, tracking services, or data collection frameworks. We do not share data with any third parties. The app uses only Apple's native frameworks (SwiftUI, Core Data, StoreKit) for functionality.</p>
+
+    <h2>Children's Privacy</h2>
+    <p>Statshots is designed for use by coaches, team managers, and administrators to track youth and adult hockey team statistics. While the app may contain information about children (player data entered by coaches/managers), we do not knowingly collect personal information directly from children. All data is entered by adult users (coaches, managers, administrators) and stored locally on their devices.</p>
+
+    <h2>Data Security</h2>
+    <p>Since all data is stored locally on your device, data security is maintained through your device's built-in security features, including device passcodes, Face ID, Touch ID, and encryption. We recommend using these security features to protect your device and the data stored on it.</p>
+
+    <h2>Changes to This Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this Privacy Policy periodically.</p>
+
+    <h2>Your Rights</h2>
+    <p>Since all data is stored locally on your device, you have complete control over your data. You can:</p>
+    <ul>
+        <li>View all data within the app</li>
+        <li>Edit or delete any data at any time</li>
+        <li>Export your data to CSV files</li>
+        <li>Delete the app to remove all data from your device</li>
+    </ul>
+
+    <h2>Your Consent</h2>
+    <p>By using Statshots, you consent to this Privacy Policy. If you do not agree with this policy, please do not use the app.</p>
+
+    <div class="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions about this Privacy Policy or how we handle data, please contact us at:</p>
+        <p><strong>Email:</strong> <a href="mailto:eugene.liscio@gmail.com">eugene.liscio@gmail.com</a></p>
+        <p>We will respond to your inquiry as soon as possible.</p>
+    </div>
+</body>
+</html>
+
